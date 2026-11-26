@@ -1,0 +1,15 @@
+{
+  "title": "C Exam 2026",
+  "description": "Eksamensbesvarelse i C utviklet og testet i Debian 10 Linux på VMware Pro.",
+  "category": "kristiania",
+  "grade": "B",
+  "legacyId": 5,
+  "screenshots": [
+    "docs/portfolio/pg3401-c-exam-2026-1.jpg"
+  ],
+  "sections": [
+    "Karakter",
+    "Oversikt",
+    "Teknisk Miljø"
+  ]
+}
